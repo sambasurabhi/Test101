@@ -7,6 +7,12 @@ public class FirstTest {
 		System.out.println("Hello World1");
 		System.out.println("Hello World2");
 		
+		method1();
 		
+		
+	}
+	
+	public static void method1(){
+		System.out.println("Method 1000 >>>");
 	}
 }
