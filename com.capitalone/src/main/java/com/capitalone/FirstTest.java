@@ -12,7 +12,10 @@ public class FirstTest {
 		
 		System.out.println("Change 404");
 		
-		
+		int [] data = {1,2,3};
+		for(int val : data){
+			System.out.println(val);
+		}
 		
 	}
 	
