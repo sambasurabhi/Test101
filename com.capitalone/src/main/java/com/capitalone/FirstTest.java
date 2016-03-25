@@ -10,6 +10,8 @@ public class FirstTest {
 		method1();
 		
 		
+		
+		
 	}
 	
 	public static void method1(){
