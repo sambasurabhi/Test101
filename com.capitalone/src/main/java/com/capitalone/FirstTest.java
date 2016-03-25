@@ -13,6 +13,12 @@ public class FirstTest {
 		System.out.println("Change 404");
 		
 		
+		int [] data = {7,8,9};
+		int sum = 0;
+		for(int val : data){
+			sum = + val;
+		}
+		System.out.println("Sum of Values =>" + sum);
 		
 	}
 	
